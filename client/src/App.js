@@ -14,7 +14,7 @@ import SitterLogin from './components/login/sitter'
 import Signup from './components/signup/signup'
 import ParentSignup from './components/signup/parent'
 import SitterSignup from './components/signup/sitter'
-import Parentaccount from './components/accounts/paccount'
+import ParentAccount from './components/accounts/paccount'
 import SitterAccount from './components/accounts/saccount'
 import Prime from './prime'
 
